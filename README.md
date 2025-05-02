@@ -32,10 +32,12 @@ Train an AI agent to autonomously stabilize a virtual drone at a target altitude
 - Reward progression graph
 
 ![Balanced Rewards Graphic](assets/images/recompensas_balanceadas.png)
+*Reward convergence over 500 training episodes. Stable values after ~300 episodes indicate effective policy learning.*
 
 - Demonstration GIF showing learned behavior
 
 ![Simulation Result](assets/images/drone_balance.gif)
+*Real-time stabilization at target altitude (10.00m). Zero velocity indicates perfect hover control.*
 
 - Trained model in HDF5 format (`.h5`)
 

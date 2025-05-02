@@ -37,4 +37,4 @@ Train an AI agent to autonomously stabilize a virtual drone at a target altitude
 
 - Demonstration GIF showing learned behavior
 
-![Simulation Result](assets/images\drone_balance.gif)
+![Simulation Result](assets/images/drone_balance.gif)

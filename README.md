@@ -31,6 +31,8 @@ Train an AI agent to autonomously stabilize a virtual drone at a target altitude
 ## Outputs Generated:
 - Trained model in HDF5 format (`.h5`)
 
+[Trainde Model](https://github.com/FerBorja/Drone_Control_System/blob/main/assets/images/drone_model_balanced.h5)
+
 - Reward progression graph
 
 ![Balanced Rewards Graphic](assets/images/recompensas_balanceadas.png)

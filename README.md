@@ -32,3 +32,6 @@ Train an AI agent to autonomously stabilize a virtual drone at a target altitude
 - Trained model in HDF5 format (`.h5`)
 - Reward progression graph
 - Demonstration GIF showing learned behavior
+
+## Results:
+![Balanced Rewards Graphic](assets/images/recompensas_balanceadas.png)

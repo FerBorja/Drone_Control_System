@@ -36,8 +36,10 @@ Train an AI agent to autonomously stabilize a virtual drone at a target altitude
 
 - Demonstration GIF showing learned behavior
 
-![Simulation Result](assets/images/drone_balance.gif)
-*Real-time stabilization at target altitude (10.00m). Zero velocity indicates perfect hover control.*
+<p align="center">
+  <img src="assets/images/drone_balance.gif" width="400" alt="Drone stabilization demo">
+</p>
+*Real-time stabilization at target altitude (10.00m). Zero velocity indicates perfect hover control.* 
 
 - Trained model in HDF5 format (`.h5`)
 

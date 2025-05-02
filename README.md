@@ -41,7 +41,7 @@ Train an AI agent to autonomously stabilize a virtual drone at a target altitude
 </p>
 *Real-time stabilization at target altitude (10.00m). Zero velocity indicates perfect hover control.* 
 
-
+</p>
 - Trained model in HDF5 format (`.h5`)
 
 [Trained Model](https://github.com/FerBorja/Drone_Control_System/blob/main/assets/images/drone_model_balanced.h5)
